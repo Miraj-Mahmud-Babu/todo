@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$primaryColor : red;
+$secondaryColor : blue;
+$backgroundColor : rgb(215, 128, 255);
+
+
+body{
+    background-color: $backgroundColor;
+}
